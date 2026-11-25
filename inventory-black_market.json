@@ -1,0 +1,48 @@
+{
+  "Black Market": {
+    "Village": {
+      "Basic": [
+        { "item": "Ball Bearings", "price": "1 gp" },
+        { "item": "Burglar’s Pack", "price": "16 gp" },
+        { "item": "Crowbar", "price": "2 gp" },
+        { "item": "Thieves’ Tools", "price": "25 gp" },
+        { "item": "Service: Pick Lock", "price": "2 gp" },
+        { "item": "Service: Forge Document", "price": "5 gp" },
+        { "item": "Service: Distort Value", "price": "50 gp" }
+      ],
+      "Specials": [
+        { "item": "Boots of False Tracks", "price": "100 gp" },
+        { "item": "Charlatan’s Die", "price": "100 gp" },
+        { "item": "Cloak of Many Fashions", "price": "100 gp" },
+        { "item": "Horn of Silent Alarm", "price": "100 gp" },
+        { "item": "Mystery Key", "price": "100 gp" },
+        { "item": "Perfume of Bewitching", "price": "50 gp" },
+        { "item": "Spell Scroll (Cantrip - Mage Hand)", "price": "50 gp" },
+        { "item": "Spell Scroll (Cantrip - Minor Illusion)", "price": "50 gp" },
+        { "item": "Spell Scroll (1st Level - Disguise Self)", "price": "50 gp" },
+        { "item": "Spell Scroll (1st Level - Distort Value)", "price": "50 gp" }
+      ]
+    },
+    "Town": {
+      "Basic": [
+        { "item": "Vial of Basic Poison", "price": "100 gp" },
+        { "item": "Service: Knock", "price": "200 gp" }
+      ],
+      "Specials": [
+        { "item": "Amulet of Proof Against Detection and Location", "price": "400 gp" },
+        { "item": "Dust of Disappearance", "price": "200 gp" },
+        { "item": "Dust of Sneezing and Choking", "price": "200 gp" },
+        { "item": "Gloves of Thievery", "price": "400 gp" },
+        { "item": "Goggles of Night", "price": "400 gp" },
+        { "item": "Hat of Disguise", "price": "400 gp" },
+        { "item": "Oil of Slipperiness", "price": "200 gp" },
+        { "item": "Spell Scroll (2nd Level - Find Traps)", "price": "200 gp" },
+        { "item": "Spell Scroll (2nd Level - Invisibility)", "price": "200 gp" },
+        { "item": "Spell Scroll (2nd Level - Knock)", "price": "200 gp" },
+        { "item": "Spell Scroll (2nd Level - Pass without a Trace)", "price": "200 gp" },
+        { "item": "Spell Scroll (3rd Level - Catnap)", "price": "300 gp" },
+        { "item": "Spell Scroll (3rd Level - Nondetection)", "price": "300 gp" }
+      ]
+    }
+  }
+}
